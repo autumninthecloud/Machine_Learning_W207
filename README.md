@@ -1,5 +1,7 @@
-# UCPupeley
+# UCPupeley: Final Project for w207
 ## Chandler Haukap, Autumn Rains and Carlos Moreno
+
+Our final report can be found [here.](https://github.com/autumninthecloud/Machine_Learning_W207/blob/84ed17b59c83a871f901497ee241069a9ba1a85f/w207_FP_UCPupeley_Report.pdf)
 
 Experiments and code for the [Petfinder Pawpularity competition](https://www.kaggle.com/c/petfinder-pawpularity-score/overview)
 

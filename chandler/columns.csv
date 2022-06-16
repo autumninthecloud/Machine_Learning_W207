@@ -1,0 +1,475 @@
+label,dog_or_cat
+Id,no
+Subject Focus,no
+Eyes,no
+Face,no
+Near,no
+Action,no
+Accessory,no
+Group,no
+Collage,no
+Human,no
+Occlusion,no
+Info,no
+Blur,no
+Pawpularity,no
+Afghan hound,dog
+African chameleon,no
+African crocodile,no
+African grey,no
+African hunting dog,dog
+Airedale,dog
+American Staffordshire terrier,dog
+American alligator,no
+American black bear,no
+American chameleon,no
+Angora,cat
+Appenzeller,dog
+Arctic fox,no
+Australian terrier,dog
+Bedlington terrier,dog
+Bernese mountain dog,dog
+Blenheim spaniel,dog
+Border collie,dog
+Border terrier,dog
+Boston bull,dog
+Bouvier des Flandres,dog
+Brabancon griffon,dog
+Brittany spaniel,dog
+Cardigan,dog
+Chesapeake Bay retriever,dog
+Chihuahua,dog
+Christmas stocking,no
+Crock Pot,no
+Dandie Dinmont,dog
+Doberman,dog
+Dungeness crab,no
+Egyptian cat,cat
+English foxhound,dog
+English setter,dog
+English springer,dog
+EntleBucher,dog
+Eskimo dog,dog
+French bulldog,dog
+German shepherd,dog
+German short-haired pointer,dog
+Gordon setter,dog
+Granny Smith,no
+Great Dane,dog
+Great Pyrenees,dog
+Greater Swiss Mountain dog,dog
+Ibizan hound,dog
+Indian elephant,no
+Irish setter,dog
+Irish terrier,dog
+Irish water spaniel,dog
+Irish wolfhound,dog
+Italian greyhound,dog
+Japanese spaniel,dog
+Kerry blue terrier,dog
+Komodo dragon,no
+Labrador retriever,dog
+Lakeland terrier,dog
+Leonberg,dog
+Lhasa,dog
+Loafer,no
+Madagascar cat,cat
+Maltese dog,dog
+Mexican hairless,dog
+Newfoundland,dog
+Norfolk terrier,dog
+Norwegian elkhound,dog
+Norwich terrier,dog
+Old English sheepdog,dog
+Pekinese,dog
+Pembroke,dog
+Persian cat,cat
+Pomeranian,dog
+Rhodesian ridgeback,dog
+Rottweiler,dog
+Saint Bernard,dog
+Saluki,dog
+Samoyed,dog
+Scotch terrier,dog
+Scottish deerhound,dog
+Sealyham terrier,dog
+Shetland sheepdog,dog
+Shih-Tzu,dog
+Siamese cat,cat
+Siberian husky,dog
+Staffordshire bullterrier,dog
+Sussex spaniel,dog
+Tibetan mastiff,dog
+Walker hound,dog
+Weimaraner,dog
+Welsh springer spaniel,dog
+West Highland white terrier,dog
+Yorkshire terrier,dog
+abacus,no
+accordion,no
+acorn,no
+affenpinscher,dog
+agama,no
+albatross,no
+ant,no
+apron,no
+armadillo,no
+axolotl,no
+baboon,no
+badger,no
+bagel,no
+bakery,no
+banded gecko,no
+bannister,no
+barrow,no
+basenji,dog
+basset,dog
+bassinet,no
+bath towel,no
+bathtub,no
+beagle,dog
+beaver,no
+bee,no
+bib,no
+bighorn,no
+bikini,no
+birdhouse,no
+black swan,no
+black-and-tan coonhound,dog
+black-footed ferret,no
+bloodhound,dog
+bluetick,dog
+boa constrictor,no
+bobsled,no
+bolete,no
+bonnet,no
+book jacket,no
+bookcase,no
+borzoi,dog
+bow,no
+bow tie,no
+boxer,dog
+brass,no
+briard,dog
+broccoli,no
+broom,no
+brown bear,no
+bubble,no
+bucket,no
+bull mastiff,dog
+bullfrog,no
+burrito,no
+butternut squash,no
+cairn,no
+caldron,no
+can opener,no
+candle,no
+capuchin,no
+car mirror,no
+carton,no
+cash machine,no
+cauliflower,no
+chain mail,no
+chain saw,no
+chambered nautilus,no
+cheetah,no
+chimpanzee,no
+china cabinet,no
+chocolate sauce,no
+chow,dog
+cicada,no
+cliff dwelling,no
+clumber,dog
+cocker spaniel,dog
+coho,no
+collie,dog
+comic book,no
+common iguana,no
+computer keyboard,no
+conch,no
+confectionery,no
+corkscrew,no
+corn,no
+cougar,no
+cowboy hat,no
+coyote,no
+cradle,no
+crane.1,no
+crate,no
+crib,no
+crossword puzzle,no
+crutch,no
+curly-coated retriever,dog
+dalmatian,dog
+desktop computer,no
+dhole,no
+diaper,no
+dingo,no
+dining table,no
+dishwasher,no
+dogsled,no
+doormat,no
+dough,no
+ear,no
+echidna,no
+electric fan,no
+entertainment center,no
+envelope,no
+feather boa,no
+fire screen,no
+flat-coated retriever,dog
+fly,no
+fountain,no
+four-poster,no
+fox squirrel,no
+frying pan,no
+fur coat,no
+giant panda,no
+giant schnauzer,dog
+gibbon,no
+go-kart,no
+golden retriever,dog
+goldfish,no
+gorilla,no
+grand piano,no
+grey fox,no
+groenendael,dog
+groom,no
+guacamole,no
+guillotine,no
+guinea pig,no
+hair spray,no
+hamper,no
+hamster,no
+hand blower,no
+hare,no
+harp,no
+hatchet,no
+hen,no
+hen-of-the-woods,no
+hermit crab,no
+hog,no
+home theater,no
+honeycomb,no
+hook,no
+horizontal bar,no
+hornbill,no
+horned viper,no
+hotdog,no
+howler monkey,no
+hummingbird,no
+hyena,no
+iPod,no
+ice bear,no
+indri,no
+iron,no
+isopod,no
+jaguar,no
+jigsaw puzzle,no
+keeshond,dog
+kelpie,dog
+kimono,no
+kit fox,no
+knot,no
+koala,no
+komondor,dog
+kuvasz,dog
+ladle,no
+ladybug,no
+lampshade,no
+langur,no
+laptop,no
+leatherback turtle,no
+leopard,no
+lesser panda,no
+lighter,no
+lion,no
+lipstick,no
+llama,no
+loggerhead,no
+lynx,no
+macaque,no
+magnetic compass,no
+magpie,no
+malamute,dog
+malinois,dog
+marimba,no
+marmoset,no
+marmot,no
+mask,no
+matchstick,no
+maze,no
+medicine chest,no
+meerkat,no
+menu,no
+microwave,no
+miniature pinscher,dog
+miniature poodle,dog
+miniature schnauzer,dog
+minibus,no
+minivan,no
+mink,no
+mongoose,no
+monitor,no
+mortar,no
+mortarboard,no
+mosquito net,no
+mouse,no
+mousetrap,no
+mushroom,no
+muzzle,no
+nipple,no
+orangutan,no
+ostrich,no
+otter,no
+otterhound,dog
+ox,no
+oxygen mask,no
+packet,no
+paddlewheel,no
+pajama,no
+paper towel,no
+papillon,dog
+park bench,no
+parking meter,no
+partridge,no
+patas,no
+patio,no
+pay-phone,no
+picket fence,no
+pillow,no
+pineapple,no
+ping-pong ball,no
+pinwheel,no
+pizza,no
+plastic bag,no
+platypus,no
+plunger,no
+polecat,no
+porcupine,no
+pot,no
+power drill,no
+printer,no
+prison,no
+proboscis monkey,no
+pug,dog
+punching bag,no
+quail,no
+quilt,no
+radiator,no
+rain barrel,no
+ram,no
+red fox,no
+red wolf,no
+redbone,dog
+refrigerator,no
+remote control,no
+rock crab,no
+ruddy turnstone,no
+safe,no
+sandal,no
+sarong,no
+scale,no
+schipperke,dog
+scorpion,no
+screen,no
+screwdriver,no
+sea lion,no
+seat belt,no
+sewing machine,no
+shield,no
+shoe shop,no
+shoji,no
+shopping basket,no
+shopping cart,no
+shower cap,no
+shower curtain,no
+siamang,no
+silky terrier,dog
+ski mask,no
+skunk,no
+sleeping bag,no
+sliding door,no
+sloth bear,no
+slug,no
+snail,no
+snow leopard,no
+soap dispenser,no
+soccer ball,no
+sock,no
+soft-coated wheaten terrier,dog
+sombrero,no
+space heater,no
+spatula,no
+spider monkey,no
+spindle,no
+spotlight,no
+squirrel monkey,no
+standard poodle,dog
+standard schnauzer,dog
+starfish,no
+stole,no
+stove,no
+strainer,no
+street sign,no
+stretcher,no
+studio couch,no
+sulphur-crested cockatoo,no
+sundial,no
+sunglasses,no
+suspension bridge,no
+swab,no
+swing,no
+syringe,no
+tabby,cat
+tailed frog,no
+tarantula,no
+teddy,no
+television,no
+tennis ball,no
+terrapin,no
+theater curtain,no
+three-toed sloth,no
+tiger,no
+tiger cat,cat
+timber wolf,no
+titi,no
+toilet seat,no
+toilet tissue,no
+totem pole,no
+toy poodle,dog
+toy terrier,dog
+toyshop,no
+tray,no
+triceratops,no
+tricycle,no
+trilobite,no
+tub,no
+turnstile,no
+umbrella,no
+vacuum,no
+vase,no
+vizsla,dog
+waffle iron,no
+walking stick,no
+wallaby,no
+wardrobe,no
+warthog,no
+washbasin,no
+washer,no
+water buffalo,no
+weasel,no
+web site,no
+whippet,dog
+white wolf,no
+wig,no
+wild boar,no
+window screen,no
+window shade,no
+wing,no
+wire-haired fox terrier,dog
+wok,no
+wombat,no
+wood rabbit,no
+wooden spoon,no
+zebra,no

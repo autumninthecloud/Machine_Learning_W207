@@ -1,0 +1,474 @@
+1,Id
+1,Subject Focus
+1,Eyes
+1,Face
+1,Near
+1,Action
+1,Accessory
+1,Group
+1,Collage
+1,Human
+1,Occlusion
+1,Info
+1,Blur
+1,Pawpularity
+1,Afghan hound
+1,African chameleon
+1,African crocodile
+1,African grey
+1,African hunting dog
+1,Airedale
+1,American Staffordshire terrier
+1,American alligator
+1,American black bear
+1,American chameleon
+1,Angora
+1,Appenzeller
+1,Arctic fox
+1,Australian terrier
+1,Bedlington terrier
+1,Bernese mountain dog
+1,Blenheim spaniel
+1,Border collie
+1,Border terrier
+1,Boston bull
+1,Bouvier des Flandres
+1,Brabancon griffon
+1,Brittany spaniel
+1,Cardigan
+1,Chesapeake Bay retriever
+1,Chihuahua
+1,Christmas stocking
+1,Crock Pot
+1,Dandie Dinmont
+1,Doberman
+1,Dungeness crab
+1,Egyptian cat
+1,English foxhound
+1,English setter
+1,English springer
+1,EntleBucher
+1,Eskimo dog
+1,French bulldog
+1,German shepherd
+1,German short-haired pointer
+1,Gordon setter
+1,Granny Smith
+1,Great Dane
+1,Great Pyrenees
+1,Greater Swiss Mountain dog
+1,Ibizan hound
+1,Indian elephant
+1,Irish setter
+1,Irish terrier
+1,Irish water spaniel
+1,Irish wolfhound
+1,Italian greyhound
+1,Japanese spaniel
+1,Kerry blue terrier
+1,Komodo dragon
+1,Labrador retriever
+1,Lakeland terrier
+1,Leonberg
+1,Lhasa
+1,Loafer
+1,Madagascar cat
+1,Maltese dog
+1,Mexican hairless
+1,Newfoundland
+1,Norfolk terrier
+1,Norwegian elkhound
+1,Norwich terrier
+1,Old English sheepdog
+1,Pekinese
+1,Pembroke
+1,Persian cat
+1,Pomeranian
+1,Rhodesian ridgeback
+1,Rottweiler
+1,Saint Bernard
+1,Saluki
+1,Samoyed
+1,Scotch terrier
+1,Scottish deerhound
+1,Sealyham terrier
+1,Shetland sheepdog
+1,Shih-Tzu
+1,Siamese cat
+1,Siberian husky
+1,Staffordshire bullterrier
+1,Sussex spaniel
+1,Tibetan mastiff
+1,Walker hound
+1,Weimaraner
+1,Welsh springer spaniel
+1,West Highland white terrier
+1,Yorkshire terrier
+1,abacus
+1,accordion
+1,acorn
+1,affenpinscher
+1,agama
+1,albatross
+1,ant
+1,apron
+1,armadillo
+1,axolotl
+1,baboon
+1,badger
+1,bagel
+1,bakery
+1,banded gecko
+1,bannister
+1,barrow
+1,basenji
+1,basset
+1,bassinet
+1,bath towel
+1,bathtub
+1,beagle
+1,beaver
+1,bee
+1,bib
+1,bighorn
+1,bikini
+1,birdhouse
+1,black swan
+1,black-and-tan coonhound
+1,black-footed ferret
+1,bloodhound
+1,bluetick
+1,boa constrictor
+1,bobsled
+1,bolete
+1,bonnet
+1,book jacket
+1,bookcase
+1,borzoi
+1,bow
+1,bow tie
+1,boxer
+1,brass
+1,briard
+1,broccoli
+1,broom
+1,brown bear
+1,bubble
+1,bucket
+1,bull mastiff
+1,bullfrog
+1,burrito
+1,butternut squash
+1,cairn
+1,caldron
+1,can opener
+1,candle
+1,capuchin
+1,car mirror
+1,carton
+1,cash machine
+1,cauliflower
+1,chain mail
+1,chain saw
+1,chambered nautilus
+1,cheetah
+1,chimpanzee
+1,china cabinet
+1,chocolate sauce
+1,chow
+1,cicada
+1,cliff dwelling
+1,clumber
+1,cocker spaniel
+1,coho
+1,collie
+1,comic book
+1,common iguana
+1,computer keyboard
+1,conch
+1,confectionery
+1,corkscrew
+1,corn
+1,cougar
+1,cowboy hat
+1,coyote
+1,cradle
+1,crane.1
+1,crate
+1,crib
+1,crossword puzzle
+1,crutch
+1,curly-coated retriever
+1,dalmatian
+1,desktop computer
+1,dhole
+1,diaper
+1,dingo
+1,dining table
+1,dishwasher
+1,dogsled
+1,doormat
+1,dough
+1,ear
+1,echidna
+1,electric fan
+1,entertainment center
+1,envelope
+1,feather boa
+1,fire screen
+1,flat-coated retriever
+1,fly
+1,fountain
+1,four-poster
+1,fox squirrel
+1,frying pan
+1,fur coat
+1,giant panda
+1,giant schnauzer
+1,gibbon
+1,go-kart
+1,golden retriever
+1,goldfish
+1,gorilla
+1,grand piano
+1,grey fox
+1,groenendael
+1,groom
+1,guacamole
+1,guillotine
+1,guinea pig
+1,hair spray
+1,hamper
+1,hamster
+1,hand blower
+1,hare
+1,harp
+1,hatchet
+1,hen
+1,hen-of-the-woods
+1,hermit crab
+1,hog
+1,home theater
+1,honeycomb
+1,hook
+1,horizontal bar
+1,hornbill
+1,horned viper
+1,hotdog
+1,howler monkey
+1,hummingbird
+1,hyena
+1,iPod
+1,ice bear
+1,indri
+1,iron
+1,isopod
+1,jaguar
+1,jigsaw puzzle
+1,keeshond
+1,kelpie
+1,kimono
+1,kit fox
+1,knot
+1,koala
+1,komondor
+1,kuvasz
+1,ladle
+1,ladybug
+1,lampshade
+1,langur
+1,laptop
+1,leatherback turtle
+1,leopard
+1,lesser panda
+1,lighter
+1,lion
+1,lipstick
+1,llama
+1,loggerhead
+1,lynx
+1,macaque
+1,magnetic compass
+1,magpie
+1,malamute
+1,malinois
+1,marimba
+1,marmoset
+1,marmot
+1,mask
+1,matchstick
+1,maze
+1,medicine chest
+1,meerkat
+1,menu
+1,microwave
+1,miniature pinscher
+1,miniature poodle
+1,miniature schnauzer
+1,minibus
+1,minivan
+1,mink
+1,mongoose
+1,monitor
+1,mortar
+1,mortarboard
+1,mosquito net
+1,mouse
+1,mousetrap
+1,mushroom
+1,muzzle
+1,nipple
+1,orangutan
+1,ostrich
+1,otter
+1,otterhound
+1,ox
+1,oxygen mask
+1,packet
+1,paddlewheel
+1,pajama
+1,paper towel
+1,papillon
+1,park bench
+1,parking meter
+1,partridge
+1,patas
+1,patio
+1,pay-phone
+1,picket fence
+1,pillow
+1,pineapple
+1,ping-pong ball
+1,pinwheel
+1,pizza
+1,plastic bag
+1,platypus
+1,plunger
+1,polecat
+1,porcupine
+1,pot
+1,power drill
+1,printer
+1,prison
+1,proboscis monkey
+1,pug
+1,punching bag
+1,quail
+1,quilt
+1,radiator
+1,rain barrel
+1,ram
+1,red fox
+1,red wolf
+1,redbone
+1,refrigerator
+1,remote control
+1,rock crab
+1,ruddy turnstone
+1,safe
+1,sandal
+1,sarong
+1,scale
+1,schipperke
+1,scorpion
+1,screen
+1,screwdriver
+1,sea lion
+1,seat belt
+1,sewing machine
+1,shield
+1,shoe shop
+1,shoji
+1,shopping basket
+1,shopping cart
+1,shower cap
+1,shower curtain
+1,siamang
+1,silky terrier
+1,ski mask
+1,skunk
+1,sleeping bag
+1,sliding door
+1,sloth bear
+1,slug
+1,snail
+1,snow leopard
+1,soap dispenser
+1,soccer ball
+1,sock
+1,soft-coated wheaten terrier
+1,sombrero
+1,space heater
+1,spatula
+1,spider monkey
+1,spindle
+1,spotlight
+1,squirrel monkey
+1,standard poodle
+1,standard schnauzer
+1,starfish
+1,stole
+1,stove
+1,strainer
+1,street sign
+1,stretcher
+1,studio couch
+1,sulphur-crested cockatoo
+1,sundial
+1,sunglasses
+1,suspension bridge
+1,swab
+1,swing
+1,syringe
+1,tabby
+1,tailed frog
+1,tarantula
+1,teddy
+1,television
+1,tennis ball
+1,terrapin
+1,theater curtain
+1,three-toed sloth
+1,tiger
+1,tiger cat
+1,timber wolf
+1,titi
+1,toilet seat
+1,toilet tissue
+1,totem pole
+1,toy poodle
+1,toy terrier
+1,toyshop
+1,tray
+1,triceratops
+1,tricycle
+1,trilobite
+1,tub
+1,turnstile
+1,umbrella
+1,vacuum
+1,vase
+1,vizsla
+1,waffle iron
+1,walking stick
+1,wallaby
+1,wardrobe
+1,warthog
+1,washbasin
+1,washer
+1,water buffalo
+1,weasel
+1,web site
+1,whippet
+1,white wolf
+1,wig
+1,wild boar
+1,window screen
+1,window shade
+1,wing
+1,wire-haired fox terrier
+1,wok
+1,wombat
+1,wood rabbit
+1,wooden spoon
+1,zebra

@@ -1,9 +1,10 @@
 # UCPupeley: Final Project for w207
 ## Chandler Haukap, Autumn Rains and Carlos Moreno
 
-Our final report can be found [here.](https://github.com/autumninthecloud/Machine_Learning_W207/blob/84ed17b59c83a871f901497ee241069a9ba1a85f/w207_FP_UCPupeley_Report.pdf)
+Our goal for this final project was to create a machine learning model to improve pet adoption rates. We accomplished this through image classification techniques
+to analyze and recommend existing images to understand what features of an image yielded a successul adoption. Our final report can be found [here.](https://github.com/autumninthecloud/Machine_Learning_W207/blob/84ed17b59c83a871f901497ee241069a9ba1a85f/w207_FP_UCPupeley_Report.pdf)
 
-Experiments and code for the [Petfinder Pawpularity competition](https://www.kaggle.com/c/petfinder-pawpularity-score/overview)
+This was part of a competition on Kaggle.com: Experiments and code for the [Petfinder Pawpularity competition.](https://www.kaggle.com/c/petfinder-pawpularity-score/overview)
 
 These are a lot of files in this repository. We ran a ton of experiments and most of them didn't prove helpful. Instead of reading through every journal, here is a mapping from the experiments discussed in the report to the Jupyter Notebooks containing the code.
 
